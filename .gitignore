@@ -1,0 +1,7 @@
+Causal_Analysis/data/*.csv
+Causal_Analysis/data/*.npy
+KIc/
+Library/
+Mototake_Analysis/
+trueKIc.csv
+
