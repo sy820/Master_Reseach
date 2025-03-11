@@ -1,1 +1,39 @@
 # Master_Reseach
+
+ファイル説明
+- Discussion
+    - Discussionで使用したコード
+        - 性能差、系統誤差の違いによるAttention Distanceの比較
+        - symmetry_(error, perform).ipynb: 対称性の検証したコード
+            - perform: 性能差による比較
+            - error: 系統誤差の違いによる比較
+- Figure
+    - 保存した図
+- KIc
+    - Image
+        - 様々な画像を保存した場所
+    - Image_Original
+        - 破面画像データ
+    - Model
+        - 各モデル(vit, vgg, efficientnet)の予測結果とそのweight
+    - vgg16_KIC
+        - 破面画像
+        - KIc
+- Library
+    - 他のライブラリーを参考にしたコード
+        - Transformer Explainability
+        - Attention Rollout
+- Mototake_Analysis
+    - 本武先生が以前の論文で使用したコード
+- Amamoto_Analysis.ipynb
+    - 天本先生が高分子毎にどのような特徴があるか調査したコード
+- Appendix.ipynb
+    - 論文の「付録」で使用したコード
+- attention_weight_visualization.ipynb
+    - Attention Weightを破面画像に可視化したコード
+- Conclusion.ipynb
+    - 論文の「結果」で使用したコード
+- grad_cam.ipynb
+    - GradCAM可視化コード
+- model~(.ipynb, .py)
+    - 各モデル(vit, vgg, efficientnet)のKIc予測コード

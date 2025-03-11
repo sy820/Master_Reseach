@@ -1,5 +1,6 @@
-Causal_Analysis/data/*.csv
-Causal_Analysis/data/*.npy
+Discussion/data/*.csv
+Discussion/data/*.npy
+Discussion/data/**/
 KIc/
 Library/
 Mototake_Analysis/
